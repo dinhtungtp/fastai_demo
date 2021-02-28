@@ -1,2 +1,2 @@
 # fastai_demo
-demo link: https://hub.gke2.mybinder.org/user/dinhtungtp-fastai_demo-klkn2wd3/voila/render/bear_detector.ipynb
+demo link: https://mybinder.org/v2/gh/dinhtungtp/fastai_demo/bear-detector?urlpath=%2Fvoila%2Frender%2Fbear_detector.ipynb
